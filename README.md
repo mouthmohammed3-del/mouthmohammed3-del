@@ -68,9 +68,8 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 
 ## 📫 Contact
 - GitHub: https://github.com/mouthmohammed3-del
-
+- Email mouthmohammed3@gmail.com
 ---
-
 ⭐ *“A full stack developer understands the whole picture.”*
 
 - 📚 **JavaScript Learning Library**  
