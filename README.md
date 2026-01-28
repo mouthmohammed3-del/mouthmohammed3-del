@@ -1,56 +1,77 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Mouth A-lyaari
 
-🎓 **Information Systems Student** at **Sana'a University**  
-💻 Aspiring Software Developer | Web & Backend Enthusiast  
-🌐 Currently learning **ASP.NET MVC** and expanding full-stack skills  
+🎓 **Information Systems (IS) Student** – Sana'a University  
+💻 **Full Stack Web Developer**
 
 ---
 
-## 🧑‍💻 About Me
-I am a motivated **Information Systems student** with a passion for software development and building practical applications.  
-I combine **programming, databases, and web technologies** to create meaningful projects.  
+## 👨‍💻 About Me
+I am an **Information Systems student** with a passion for **Full Stack Web Development**.  
+I enjoy building complete web applications — from designing responsive user interfaces to developing backend logic and databases.
 
-I enjoy learning **new frameworks, languages, and system architectures**.  
-My goal is to become a **professional backend developer** and contribute to real-world software projects.
+I focus on writing clean, organized, and scalable code, and I’m always learning new technologies to improve my skills.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧩 Tech Stack
 
-### Programming Languages
-- C++  
-- Python  
-- C#  
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Responsive Design  
+- UI / UX Principles  
+
+### ⚙ Backend
 - PHP  
-- JavaScript
+- ASP.NET MVC (C#)  
+- MVC Architecture  
 
-### Web Development
-- HTML5, CSS3  
-- JavaScript (DOM, ES6)  
-- PHP (Core PHP)  
-
-### Frameworks & Learning
-- ASP.NET MVC (Currently Learning)
-
-### Databases
+### 🗄 Databases
 - MySQL  
-- Database Design, CRUD, and Relationships  
+- SQL Server  
+
+### 🛠 Tools
+- Git & GitHub  
+- Visual Studio / VS Code  
+- Browser DevTools  
 
 ---
 
-## 📚 Current Learning
-- **ASP.NET MVC Architecture & Design Patterns**  
-- Server-side validation & authentication  
-- Database integration with C#  
-- Writing clean and maintainable code  
-- Full-stack project development  
+## 📚 Currently Learning
+- Advanced JavaScript  
+- MVC Best Practices  
+- RESTful Concepts  
+- Frontend Frameworks (Angular)  
 
 ---
 
-## 📂 Projects & Practice
-- 🏫 **School Management System (PHP)**  
-  Complete student management, attendance tracking, and internal learning library.
+## 📂 Projects
+- 🏫 **School Management System**  
+  Full stack system with roles (Admin, User), authentication, and data management.
+
+- 📘 **Educational Web Applications**  
+  Dynamic web apps using MVC architecture and database integration.
+
+*(More projects coming soon 🚀)*
+
+---
+
+## 🎯 Goals
+- Become a professional **Full Stack Developer**
+- Build scalable and secure web applications
+- Master Frontend & Backend integration
+- Contribute to real-world projects
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/mouthmohammed3-del
+
+---
+
+⭐ *“A full stack developer understands the whole picture.”*
 
 - 📚 **JavaScript Learning Library**  
   Interactive learning platform with courses, images, descriptions, and prices.
