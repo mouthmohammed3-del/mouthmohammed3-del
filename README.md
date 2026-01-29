@@ -30,7 +30,8 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 
 ### 🗄 Databases
 - MySQL  
-- SQL Server  
+- SQL Server
+- Oracle
 
 ### 🛠 Tools
 - Git & GitHub  
@@ -91,14 +92,13 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouthmohammed3-del&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/username?username=mouthmohammed3-del&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 - GitHub: [mouthmohammed3-del](https://github.com/mouthmohammed3-del)    
 - Email: mouthmohammed3@gmail.com
----
 
 ⭐ *“Information systems are built not just with code, but with logic, analysis, and vision.”*
 <!--
