@@ -1,5 +1,5 @@
 
-# 👋 Hi, $"I'm Mouth A-lyaari"
+#👋 Hi,$"I'm Mouth A-lyaari"
 
 🎓 **Information Systems (IS) Student** – Sana'a University  
 💻 **Full Stack Web Developer**
