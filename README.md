@@ -83,7 +83,7 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 ---
 
 ## 🎯 Goals
-- Become a professional backend & full-stack developer  
+- Become a professional full-stack developer  
 - Build scalable and secure information systems  
 - Master ASP.NET MVC and MVC design pattern  
 - Work on real-world, impactful software projects  
@@ -115,4 +115,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-
+Angular is veryimportant with me 
 -->
+Angular is veryimportant with me 
