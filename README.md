@@ -1,5 +1,6 @@
 
-#👋 Hi,$"I'm Mouth A-lyaari"
+#👋 Hi,
+$"I'm Mouth A-lyaari"
 
 🎓 **Information Systems (IS) Student** – Sana'a University  
 💻 **Full Stack Web Developer**
@@ -26,7 +27,8 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 ### ⚙ Backend
 - PHP  
 - ASP.NET MVC (C#)  
-- MVC Architecture  
+- MVC Architecture
+- 
 
 ### 🗄 Databases
 - MySQL  
