@@ -39,12 +39,12 @@ Here you can showcase your best work. Remember to replace the placeholder links 
 - 🏫 **School Management System**  
   **Description:** A full-stack application for managing school operations, built with **ASP.NET MVC** and **SQL Server**. It features role-based access control (Admin, User) and a complete authentication system.  
   **Technologies:** `C#`, `ASP.NET MVC`, `SQL Server`, `HTML/CSS`  
-  **[🔗 View on GitHub](YOUR-PROJECT-LINK-HERE)**
+  **[🔗 View on GitHub](https://github.com/mouthmohammed3del/School_Management)**
 
 - 📚 **JavaScript Learning Library**  
   **Description:** An interactive platform for showcasing educational courses with images, descriptions, and prices. Built with foundational web technologies.  
   **Technologies:** `HTML`, `CSS`, `JavaScript`, `PHP`  
-  **[🔗 View on GitHub](YOUR-PROJECT-LINK-HERE)**
+  **[🔗 View on GitHub]()**
 
 *(More projects coming soon as I advance in ASP.NET MVC and Angular 🚀)*
 
