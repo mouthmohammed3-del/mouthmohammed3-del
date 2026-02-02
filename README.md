@@ -1,136 +1,72 @@
-🚀 Full Stack Developer |
+🚀 **Full Stack Developer | ASP.NET & Angular Enthusiast**
 
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mouth%20A-lyaari&fontSize=60&fontAlignY=35&animation=fadeIn)
 
 **Information Systems Student @ Sana'a University**  
-**ASP.NET MVC & Angular Enthusiast**  
 *Building scalable web applications with modern architectures*
 
 [![GitHub](https://img.shields.io/badge/GitHub-mouthmohammed3--del-181717?style=for-the-badge&logo=github)](https://github.com/mouthmohammed3-del)
 [![Email](https://img.shields.io/badge/Email-mouthmohammed3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouthmohammed3@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+967%20778532787-blue?style=for-the-badge&logo=whatsapp)](https://wa.me/967778532787)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 **About Me**
 
-```javascript
-const developer = {
-  name: "Mouth A-lyaari",
-  role: "Full Stack Web Developer",
-  degree: "B.Sc. Information Systems",
-  university: "Sana'a University",
-  passion: "Building scalable and maintainable web applications",
-  philosophy: "Clean code + Good architecture = Strong systems",
-  currentFocus: ["ASP.NET MVC", "Angular", "Database Design"]
-};
-I am an **Information Systems student** with a passion for **Full Stack Web Development**.  
-I enjoy building complete web applications — from designing responsive user interfaces to developing backend logic and databases.
-
-I focus on writing clean, organized, and scalable code, and I’m always learning new technologies to improve my skills.
+I am a passionate Full Stack Developer and an Information Systems student who enjoys turning ideas into reality. I specialize in building complete web applications—from designing interactive user interfaces (Frontend) to engineering server-side logic and databases (Backend). I believe that **clean code** and **good architecture** are the foundations of robust, scalable systems.
 
 ---
 
-## 🧩 Tech Stack
+### 🧩 **Tech Stack**
 
-### 🌐 Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- Responsive Design  
-- UI / UX Principles  
-
-### ⚙ Backend
-- PHP  
-- ASP.NET MVC (C#)  
-- MVC Architecture
-- 
-
-### 🗄 Databases
-- MySQL  
-- SQL Server
-- Oracle
-
-### 🛠 Tools
-- Git & GitHub  
-- Visual Studio / VS Code  
-- Browser DevTools  
+| **Frontend** | **Backend** | **Databases** | **Tools** |
+| :--- | :--- | :--- | :--- |
+| HTML5 & CSS3 | C# (ASP.NET MVC) | SQL Server | Git & GitHub |
+| JavaScript (ES6+) | PHP | MySQL | VS Code / Visual Studio |
+| Angular (Currently Learning) | MVC Architecture | Oracle | Browser DevTools |
+| Responsive Design | RESTful APIs | | |
 
 ---
 
-## 📚 Currently Learning
-- Advanced JavaScript  
-- MVC Best Practices  
-- RESTful Concepts  
-- Frontend Frameworks (Angular)  
+### 📂 **Featured Projects**
 
----
+Here you can showcase your best work. Remember to replace the placeholder links with actual links to your repositories or live demos. [2, 4]
 
-## 📂 Projects
 - 🏫 **School Management System**  
-  Full stack system with roles (Admin, User), authentication, and data management.
-
-- 📘 **Educational Web Applications**  
-  Dynamic web apps using MVC architecture and database integration.
-
-*(More projects coming soon 🚀)*
-
----
-
-## 🎯 Goals
-- Become a professional **Full Stack Developer**
-- Build scalable and secure web applications
-- Master Frontend & Backend integration
-- Contribute to real-world projects
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/mouthmohammed3-del
----
-⭐ *“A full stack developer understands the whole picture.”*
+  **Description:** A full-stack application for managing school operations, built with **ASP.NET MVC** and **SQL Server**. It features role-based access control (Admin, User) and a complete authentication system.  
+  **Technologies:** `C#`, `ASP.NET MVC`, `SQL Server`, `HTML/CSS`  
+  **[🔗 View on GitHub](YOUR-PROJECT-LINK-HERE)**
 
 - 📚 **JavaScript Learning Library**  
-  Interactive learning platform with courses, images, descriptions, and prices.
+  **Description:** An interactive platform for showcasing educational courses with images, descriptions, and prices. Built with foundational web technologies.  
+  **Technologies:** `HTML`, `CSS`, `JavaScript`, `PHP`  
+  **[🔗 View on GitHub](YOUR-PROJECT-LINK-HERE)**
 
-- 💻 **Personal Web Projects**  
-  Practicing HTML, CSS, JS, and PHP integration.
-
-*(More projects coming soon as I advance in ASP.NET MVC)*
-
----
-
-## 🎯 Goals
-- Become a professional full-stack developer  
-- Build scalable and secure information systems  
-- Master ASP.NET MVC and MVC design pattern  
-- Work on real-world, impactful software projects  
+*(More projects coming soon as I advance in ASP.NET MVC and Angular 🚀)*
 
 ---
 
-## 📈 GitHub Stats
+### 🎯 **My Goals**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/username?username=mouthmohammed3-del&show_icons=true&theme=radical)
+- [ ] Become a professional **Full Stack Developer**.
+- [ ] Master **ASP.NET Core** and **Angular** to build modern, high-performance applications.
+- [ ] Contribute to impactful open-source projects. [3]
+- [ ] Build scalable, secure, and real-world information systems.
 
 ---
 
-## 📫 Contact Me
-- GitHub: [mouthmohammed3-del](https://github.com/mouthmohammed3-del)    
-- Email: mouthmohammed3@gmail.com
-📱 Phone: +967 778532787
+### 📈 **My GitHub Stats**
 
-⭐ *“Information systems are built not just with code, but with logic, analysis, and vision.”*
-<!--
-**mouthmohammed3-del/mouthmohammed3-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouthmohammed3-del&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-- ⚡ Fun fact: ...
--
-Angular is veryimportant with me 
--->
+</div>
 
-```
--Angular is very important with me 
+---
+
+> ⭐ *"Information systems are built not just with code, but with logic, analysis, and vision.”*
