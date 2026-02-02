@@ -78,29 +78,6 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/mouthmohammed3-del
----
-⭐ *“A full stack developer understands the whole picture.”*
-
-- 📚 **JavaScript Learning Library**  
-  Interactive learning platform with courses, images, descriptions, and prices.
-
-- 💻 **Personal Web Projects**  
-  Practicing HTML, CSS, JS, and PHP integration.
-
-*(More projects coming soon as I advance in ASP.NET MVC)*
-
----
-
-## 🎯 Goals
-- Become a professional full-stack developer  
-- Build scalable and secure information systems  
-- Master ASP.NET MVC and MVC design pattern  
-- Work on real-world, impactful software projects  
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/username?username=mouthmohammed3-del&show_icons=true&theme=radical)
@@ -111,8 +88,6 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 - GitHub: [mouthmohammed3-del](https://github.com/mouthmohammed3-del)    
 - Email: mouthmohammed3@gmail.com
 📱 Phone: +967 778532787
-
-⭐ *“Information systems are built not just with code, but with logic, analysis, and vision.”*
 <!--
 **mouthmohammed3-del/mouthmohammed3-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
