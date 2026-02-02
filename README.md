@@ -15,18 +15,6 @@
 
 ---
 
-I want to  professional my readme became powerful 
-
-
-
-
-#👋 Hi,
-$"I'm Mouth A-lyaari"
-
-🎓 **Information Systems (IS) Student** – Sana'a University  
-💻 **Full Stack Web Developer**
-
----
 
 ## 👨‍💻 About Me
 I am an **Information Systems student** with a passion for **Full Stack Web Development**.  
