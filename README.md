@@ -27,15 +27,6 @@ const developer = {
   philosophy: "Clean code + Good architecture = Strong systems",
   currentFocus: ["ASP.NET MVC", "Angular", "Database Design"]
 };
-#👋 Hi,
-$"I'm Mouth A-lyaari"
-
-🎓 **Information Systems (IS) Student** – Sana'a University  
-💻 **Full Stack Web Developer**
-
----
-
-## 👨‍💻 About Me
 I am an **Information Systems student** with a passion for **Full Stack Web Development**.  
 I enjoy building complete web applications — from designing responsive user interfaces to developing backend logic and databases.
 
