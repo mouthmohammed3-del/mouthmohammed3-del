@@ -1,4 +1,4 @@
-# 🚀 Full Stack Developer | Information Systems Student
+# 🚀 Full Stack Developer
 
 <div align="center">
 
