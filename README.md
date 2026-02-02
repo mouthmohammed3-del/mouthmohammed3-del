@@ -1,4 +1,4 @@
-🚀 **Full Stack Developer | ASP.NET & Angular Specialist**
+🚀 **Full Stack Developer**
 
 <div align="center">
 
@@ -76,11 +76,7 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 - Master Frontend & Backend integration
 - Contribute to real-world projects
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/username?username=mouthmohammed3-del&show_icons=true&theme=radical)
+--
 
 ---
 
