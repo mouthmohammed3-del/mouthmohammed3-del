@@ -1,131 +1,46 @@
-🚀 Full Stack Developer
 
+🚀 **Full Stack Developer**
 <div align="center">
 
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Hi,I'm_Mouth%20A-lyaari&fontSize=60&fontAlignY=35&animation=fadeIn
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Hi,I'm_Mouth%20A-lyaari&fontSize=60&fontAlignY=35&animation=fadeIn)
 
-Information Systems Student with a focus on modern Web Architectures
-Building scalable, high-performance applications with .NET and Angular
+**Information Systems Student with a focus on modern Web Architectures**  
+*Building scalable, high-performance applications with .NET and Angular*
 
-https://img.shields.io/badge/GitHub-mouthmohammed3--del-181717?style=for-the-badge&logo=github
-https://img.shields.io/badge/Email-mouthmohammed3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Phone-+967%20778532787-blue?style=for-the-badge&logo=whatsapp
+[![GitHub](https://img.shields.io/badge/GitHub-mouthmohammed3--del-181717?style=for-the-badge&logo=github)](https://github.com/mouthmohammed3-del)
+[![Email](https://img.shields.io/badge/Email-mouthmohammed3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouthmohammed3@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+967%20778532787-blue?style=for-the-badge&logo=whatsapp)](https://wa.me/967778532787)
 
 </div>
 
 ---
 
-👨‍💻 About Me
 
-I am an Information Systems student with a passion for Full Stack Web Development.
+## 👨‍💻 About Me
+I am an **Information Systems student** with a passion for **Full Stack Web Development**.  
 I enjoy building complete web applications — from designing responsive user interfaces to developing backend logic and databases.
 
-I focus on writing clean, organized, and scalable code, and I'm currently deepening my skills in Angular to build modern, interactive frontends paired with robust .NET backends.
+I focus on writing clean, organized, and scalable code, and I’m always learning new technologies to improve my skills.
 
 ---
 
-🧩 Tech Stack
+## 🧩 Tech Stack
 
-🌐 Frontend
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Responsive Design  
+- UI / UX Principles  
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+### ⚙ Backend
+- PHP  
+- ASP.NET MVC (C#)  
+- MVC Architecture
+- python 
 
-⚙️ Backend
-
-https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-
-🗄️ Databases
-
-https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
-https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white
-
-🛠️ Tools & Platforms
-
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-
----
-
-📚 Currently Learning & Improving
-
-· Angular - Advanced components, services, RxJS, and state management
-· .NET Core/6+ - Modern APIs, Entity Framework Core, and microservices
-· TypeScript - Strong typing for scalable frontend development
-· RESTful API Design - Best practices for backend services
-· UI/UX Principles - Creating intuitive and accessible interfaces
-
----
-
-📂 Projects
-
-🏫 School Management System
-
-Full-stack system with role-based authentication (Admin, Teacher, Student), attendance tracking, grade management, and reporting using ASP.NET MVC and SQL Server.
-
-📘 Library Management Web App
-
-A web application for managing library operations including book catalog, member management, and borrowing system built with PHP and MySQL.
-
-🔄 Task Manager with Angular & .NET API
-
-Modern task management application with Angular frontend consuming a .NET Web API backend, featuring real-time updates and user authentication.
-
-(More projects coming soon 🚀)
-
----
-
-📊 GitHub Stats
-
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=mouthmohammed3-del&show_icons=true&theme=radical&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=mouthmohammed3-del&layout=compact&theme=radical&hide_border=true
-
-https://github-readme-streak-stats.herokuapp.com/?user=mouthmohammed3-del&theme=radical&hide_border=true
-
-</div>
-
----
-
-🎯 Goals
-
-· Master the Angular + .NET stack for enterprise applications
-· Contribute to open-source projects
-· Build scalable, secure, and high-performance web applications
-· Deepen knowledge in cloud technologies (Azure/AWS)
-· Transition from student to professional Full Stack Developer
-
----
-
-📫 Contact Me
-
-· GitHub: mouthmohammed3-del
-· Email: mouthmohammed3@gmail.com
-· Phone: +967 778532787
-· Location: Yemen
-
----
-
-<div align="center">
-
-⭐ "Information systems are built not just with code, but with logic, analysis, and vision."
-
-Angular is very important to me – it's the framework that brings modern, reactive, and maintainable frontends to life!
-
-</div>- MySQL  
+### 🗄 Databases
+- MySQL  
 - SQL Server
 - Oracle
 
@@ -187,4 +102,4 @@ Angular is veryimportant with me
 -->
 Angular is very important with me 
 
-> ⭐ *"Information systems are built not just with code, but with logic, analysis, and vision.”*
+> ⭐ *"Information systems are built not just with code, but with logic, analysis, and vision
