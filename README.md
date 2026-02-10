@@ -1,9 +1,9 @@
 
-
+🚀 **Full Stack Developer**
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋Hi,I'm_Mouth%20A-lyaari&fontSize=60&fontAlignY=35&animation=fadeIn)
-🚀 **Full Stack Developer**
+
 **Information Systems Student with a focus on modern Web Architectures**  
 *Building scalable, high-performance applications with .NET and Angular*
 
