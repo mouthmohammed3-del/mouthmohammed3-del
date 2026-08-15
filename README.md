@@ -85,9 +85,9 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 - GitHub: [mouthmohammed3-del](https://github.com/mouthmohammed3-del)    
 - Email: mouthmohammed3@gmail.com
 📱 Phone: +967 778532787
-
-**mouthmohammed3-del/mouthmohammed3-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
+**mouthmohammed3-del/mouthmohammed3-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
