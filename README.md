@@ -37,9 +37,14 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 - UI / UX Principles  
 
 ### ⚙ Backend
-- PHP  
+
+- C#
+- PHP
+- ASP.NET Core / .NET
 - ASP.NET MVC (C#)  
 - MVC Architecture
+- RESTful APIs
+- Entity Framework Core
 - python 
 
 ### 🗄 Databases
