@@ -30,7 +30,9 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 ### 🌐 Frontend
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- TypeScript
+- Angular 
 - Responsive Design  
 - UI / UX Principles  
 
