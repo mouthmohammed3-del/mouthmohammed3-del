@@ -43,6 +43,7 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 - ASP.NET Core / .NET
 - ASP.NET MVC (C#)  
 - MVC Architecture
+- ASP.NET Core API
 - RESTful APIs
 - Entity Framework Core
 - python 
