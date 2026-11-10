@@ -29,7 +29,7 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 
 ### 🌐 Frontend
 - HTML5  
-- CSS3  
+- CSS3,SCSS  
 - JavaScript (ES6+)
 - TypeScript
 - Angular 
