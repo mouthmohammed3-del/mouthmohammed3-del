@@ -61,11 +61,8 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 ---
 
 ## 📚 Currently Learning
-- Advanced JavaScript  
-- MVC Best Practices  
-- RESTful Concepts  
-- Frontend Frameworks (Angular)  
-
+- Framework :  (Advanced angular)
+- Framework: (Flutter)  
 ---
 
 ## 📂 Projects
