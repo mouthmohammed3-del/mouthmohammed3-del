@@ -1,5 +1,3 @@
-
-
 🚀 **Full Stack Developer**
 <div align="center">
 
@@ -16,7 +14,6 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 I am an **Information Systems student** with a passion for **Full Stack Web Development**.  
 I enjoy building complete web applications — from designing responsive user interfaces to developing backend logic and databases.
@@ -29,31 +26,28 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 
 ### 🌐 Frontend
 - HTML5  
-- CSS3,SCSS  
+- CSS3, SCSS  
 - JavaScript (ES6+)
 - TypeScript
-- Angular 
+- **Angular** *(Core Focus)*
 - Responsive Design  
 - UI / UX Principles  
 
-### ⚙ Backend
-
+### ⚙️ Backend
 - C#
-- PHP
 - ASP.NET Core / .NET
-- ASP.NET MVC (C#)  
-- MVC Architecture
-- ASP.NET Core API
-- RESTful APIs
+- ASP.NET MVC & Web APIs
 - Entity Framework Core
-- python 
+- MVC Architecture & RESTful APIs
+- PHP
+- Python
 
-### 🗄 Databases
-- MySQL  
+### 🗄️ Databases
 - SQL Server
+- MySQL  
 - Oracle
 
-### 🛠 Tools
+### 🛠️ Tools & Practices
 - Git & GitHub  
 - Visual Studio / VS Code  
 - Browser DevTools  
@@ -61,8 +55,10 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 ---
 
 ## 📚 Currently Learning
-- Framework :  (Advanced angular)
-- Framework: (Flutter)  
+- **Angular** (Advanced Concepts & Architecture)
+- **Flutter** (Cross-Platform Mobile Development)
+- **DevOps Practices** (CI/CD, Deployment & Automation)
+
 ---
 
 ## 📂 Projects
@@ -82,33 +78,11 @@ I focus on writing clean, organized, and scalable code, and I’m always learnin
 - Master Frontend & Backend integration
 - Contribute to real-world projects
 
---
-
 ---
 
 ## 📫 Contact Me
-- GitHub: [mouthmohammed3-del](https://github.com/mouthmohammed3-del)    
-- Email: mouthmohammed3@gmail.com
-📱 Phone: +967 778532787
-<!--
-**mouthmohammed3-del/mouthmohammed3-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **GitHub:** [mouthmohammed3-del](https://github.com/mouthmohammed3-del)    
+- **Email:** mouthmohammed3@gmail.com  
+- **Phone:** +967 778532787
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
-Angular is veryimportant with me 
--->
-
-
-Angular is very important with me 
-
-> ⭐ *"Information systems are built not just with code, but with logic, analysis, and vision
-
+> ⭐ *"Information systems are built not just with code, but with logic, analysis, and vision."*
